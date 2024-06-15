@@ -8,6 +8,7 @@ I a graduate in the field of Forestry and Environmental Technology; currently an
 - 🤔 I’m interested in Entry Level Data Analyst and Environmental jobs
 - 💬 Ask me about anything on Forestry and Environment. Also, i am available for consultation services on farming activities, sales of poultry feeds and agro-allied
 - 📫 How to reach me: [LinkedIn](https:www.linkedin.com/in/amujo-oluwatobi-6a9947215)
+- You can also reach me on my email address:amujooluwatobi@gmail.com
 - 😄 Pronouns: She
 - ⚡ Fun fact: I am a highly organised, analytical thinker with a keen eye for detail. I love to read and motivate activities
 -->
