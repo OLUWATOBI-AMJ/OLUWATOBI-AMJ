@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi there 👋
 
-<!--
-**OLUWATOBI-AMJ/OLUWATOBI-AMJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+I am AMUJO Oluwatobi.
+I a graduate in the field of Forestry and Environmental Technology; currently an Enterprenuer
+**OLUWATOBI-AMJ/OLUWATOBI-AMJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profil
+- 🔭 I’m currently working on learning few course on Environmental Management to upskill myself and get certified, as well as learn and grow in Tech sector
+- 🌱 I’m currently learning Data Analysis with Dahel Tech
+- 👯 I’m looking to collaborate with individuals, companies or even organisations on projects in the Environmental and Tech sectors, that can sharpen my skills and offer avenue for growth, while i contribute efficiently
+- 🤔 I’m interested in Entry Level Data Analyst and Environmental jobs
+- 💬 Ask me about anything on Forestry and Environment. Also, i am available for consultation services on farming activities, sales of poultry feeds and agro-allied
+- 📫 How to reach me: [Email](amujooluwatobi@gmail.com)
+- 😄 Pronouns: She
+- ⚡ Fun fact: I am a highly organised, analytical thinker with a keen eye for detail. I love to read and motivate activities
 -->
